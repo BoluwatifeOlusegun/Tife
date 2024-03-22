@@ -24,7 +24,7 @@ h1 {
 }
 
 #hero {
-    background: url('./back.jpg') center/cover no-repeat;
+    background: url('./Assets/back.jpg') center/cover no-repeat;
     color: #fff;
     text-align: center;
     padding: 150px 0;
